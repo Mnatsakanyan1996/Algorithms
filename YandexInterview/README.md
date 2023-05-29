@@ -1,0 +1,1 @@
+# Given a binary Vector, it is necessary to determine the maximum length of a sequence of consecutive ones in this vector.
